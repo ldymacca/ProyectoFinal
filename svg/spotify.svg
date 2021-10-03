@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2400 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.40732,0,0,4.40732,1200,1200)">
+        <g id="spotify.svg" transform="matrix(1,0,0,1,-256,-256)">
+            <path d="M256,0C115.2,0 0,115.2 0,256C0,396.8 115.2,512 256,512C396.8,512 512,396.8 512,256C512,115.2 398.1,0 256,0ZM373.8,369.9C368.7,377.6 359.7,380.1 352,375C291.8,337.9 216.3,330.2 126.7,350.7C117.7,353.3 110.1,346.9 107.5,339.2C104.9,330.2 111.3,322.6 119,320C216.3,298.2 300.8,307.2 367.3,348.2C376.3,352 377.6,362.2 373.8,369.9ZM404.5,299.5C398.1,308.5 386.6,312.3 377.6,305.9C308.5,263.7 203.5,250.9 122.9,276.5C112.7,279.1 101.1,273.9 98.6,263.7C96,253.5 101.2,241.9 111.4,239.4C204.8,211.2 320,225.3 399.4,274C407,277.8 410.9,290.6 404.5,299.5ZM407,227.8C325.1,179.2 188.1,174 110,198.4C97.2,202.2 84.4,194.6 80.6,183C76.8,170.2 84.4,157.4 96,153.6C186.9,126.7 336.6,131.8 431.4,188.2C442.9,194.6 446.8,210 440.4,221.5C433.9,230.4 418.6,234.2 407,227.8Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g id="spotify.svg1" serif:id="spotify.svg">
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2400 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.39703,0,0,4.39703,1200,1200)">
+        <g id="facebook.svg" transform="matrix(0.243008,0,0,0.241724,0.708899,-0.736446)">
+            <g transform="matrix(1,0,0,1,-1200,-1200)">
+                <g transform="matrix(4.37644,0,0,4.37644,79.6314,79.6314)">
+                    <g id="facebook.svg1" serif:id="facebook.svg">
+                        <path d="M464,0L48,0C21.6,0 0,21.6 0,48L0,464C0,490.4 21.6,512 48,512L256,512L256,288L192,288L192,224L256,224L256,192C256,139.1 299.1,96 352,96L416,96L416,160L352,160C334.4,160 320,174.4 320,192L320,224L416,224L400,288L320,288L320,512L464,512C490.4,512 512,490.4 512,464L512,48C512,21.6 490.4,0 464,0Z" style="fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+            </g>
+        </g>
+    </g>
+</svg>

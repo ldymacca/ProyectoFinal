@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2400 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.39703,0,0,4.39703,1200,1200)">
+        <g id="mail.svg" transform="matrix(1,0,0,1,-256,-256)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="512" height="512"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M426.655,0L85.345,0C38.405,0 -0,38.392 -0,85.329L-0,426.657C-0,473.595 38.405,512 85.345,512L426.656,512C473.625,512 512,473.595 512,426.657L512,85.329C512,38.392 473.625,0 426.655,0ZM128,128L384,128C388.569,128 393.002,128.981 397.072,130.831L256,295.415L114.928,130.83C118.998,128.982 123.431,128 128,128ZM96,352L96,160C96,159.33 96.028,158.664 96.07,158L189.902,267.47L97.103,360.27C96.381,357.601 96,354.827 96,352ZM384,384L128,384C125.173,384 122.399,383.619 119.73,382.897L210.789,291.838L256,344.586L301.212,291.839L392.27,382.898C389.6,383.619 386.827,384 384,384ZM416,352C416,354.827 415.619,357.6 414.897,360.27L322.098,267.471L415.93,158C415.972,158.664 416,159.33 416,160L416,352Z" style="fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="mail.svg1" serif:id="mail.svg">
+        </g>
+    </g>
+</svg>

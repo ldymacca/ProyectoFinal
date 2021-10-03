@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2400 2400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.39703,0,0,4.39703,1200,1200)">
+        <g id="soundcloud.svg" transform="matrix(0.249722,0,0,0.245062,7.10543e-15,1.15463e-14)">
+            <g transform="matrix(1,0,0,1,-1200,-1200)">
+                <g transform="matrix(0.1,0,0,-0.1,0,2400)">
+                    <g transform="matrix(43.4556,0,0,-43.4556,875.366,23124.6)">
+                        <g id="soundcloud.svg1" serif:id="soundcloud.svg">
+                            <g>
+                                <path d="M464,0L48,0C21.6,0 0,21.6 0,48L0,464C0,490.4 21.6,512 48,512L464,512C490.4,512 512,490.4 512,464L512,48C512,21.6 490.4,0 464,0ZM88,352L72,352L64,304L72,256L88,256L96,304L88,352ZM152,352L136,352L128,288L136,224L152,224L160,288L152,352ZM216,352L200,352L192,256L200,160L216,160L224,256L216,352ZM412.6,352C411.6,352 262,351.9 261.9,351.9C258.7,351.6 256.1,348.8 256,345.5L256,172.9C256,169.7 257.1,168.1 261.2,166.5C271.8,162.4 283.7,160 296,160C346.1,160 387.2,198.4 391.6,247.5C398.1,244.8 405.2,243.3 412.6,243.3C442.6,243.3 467,267.7 467,297.7C467,327.7 442.6,352 412.6,352Z" style="fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g>
+            </g>
+        </g>
+    </g>
+</svg>
